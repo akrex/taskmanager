@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+<Files config.php>
+deny from all
+</Files>
